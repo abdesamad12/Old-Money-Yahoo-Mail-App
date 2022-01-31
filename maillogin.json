@@ -56,11 +56,11 @@
 	 
       "show faces rate dialog": "false",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "1",
       "time unit banner": "hour",
       "time banner": "23",
 	  
-      "clicks to stop showing native ad": "2",
+      "clicks to stop showing native ad": "1",
       "time unit native": "hour",
       "time native": "23",
 	  
