@@ -58,11 +58,11 @@
 	  
       "clicks to stop showing banner ad": "1",
       "time unit banner": "hour",
-      "time banner": "23",
+      "time banner": "24",
 	  
       "clicks to stop showing native ad": "1",
       "time unit native": "hour",
-      "time native": "23",
+      "time native": "24",
 	  
       "show CPA 1": "false",
       "CPA image 1": "https://i.snipboard.io/iRkwFa.jpg",
