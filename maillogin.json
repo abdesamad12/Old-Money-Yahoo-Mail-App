@@ -15,11 +15,11 @@
       "tapdaq app key": ".",
       "tapdaq client key": ".",
 	  
-      "admob banner": "ca-app-pub-6902585794787330/4837279192",
-      "admob native": "ca-app-pub-6902585794787330/3575527782",
-      "admob interstitial": "ca-app-pub-6902585794787330/9898034188",
-      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "admob open app ad": "ca-app-pub-3940256099942544/3419835294",
+      "admob banner": ".",
+      "admob native": ".",
+      "admob interstitial": ".",
+      "admob rewarded": ".",
+      "admob open app ad": ".",
 	  
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
