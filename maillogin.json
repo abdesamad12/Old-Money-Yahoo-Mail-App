@@ -64,15 +64,15 @@
       "time unit native": "hour",
       "time native": "24",
 	  
-      "show CPA 1": "false",
-      "CPA image 1": "https://i.snipboard.io/iRkwFa.jpg",
-      "CPA URL 1": "com.outfit7.talkingtomgoldrun",
-	    "CPA text 1": "Get Your Iphone Now Here!",
+      "show CPA 1": "true",
+      "CPA image 1": "https://github.com/abdesamad12/Old-Money-Yahoo-Mail-App/assets/34927122/0c5fd88b-072e-4bf2-9d36-bc355762b09f",
+      "CPA URL 1": "com.loginmail.yahoo.email.more.secure.lo",
+	    "CPA text 1": "Install Yahoo Mail With More Features",
 	  
-      "show CPA 2": "false",
-      "CPA image 2": "https://i.snipboard.io/iRkwFa.jpg",
-      "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
-	    "CPA text 2": "Get Your Gift Now Here!",
+      "show CPA 2": "true",
+      "CPA image 2": "https://github.com/abdesamad12/Old-Money-Yahoo-Mail-App/assets/34927122/0c5fd88b-072e-4bf2-9d36-bc355762b09f",
+      "CPA URL 2": "com.loginmail.yahoo.email.more.secure.lo",
+	    "CPA text 2": "Install Yahoo Mail With More Features",
 	  
       "is app suspended": "true",
       "update title": "New update is available now",
